@@ -1,7 +1,9 @@
 # visma-application
 To compile and run this application:
 
-cd visma-application  javac -d classes src/*.java  java -cp DIR/WHERE/APP/IS/classes App
+cd visma-application
+javac -d classes src/*.java
+java -cp DIR/WHERE/APP/IS/classes App
 
 DESCRIPTION:
 
